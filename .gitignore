@@ -1,0 +1,9 @@
+.metadata/
+.settings/
+.target/
+.idea/
+.classpath
+.project
+*.swo
+*.swp
+*.iml
